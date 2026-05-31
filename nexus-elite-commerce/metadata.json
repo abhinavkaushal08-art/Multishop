@@ -1,0 +1,6 @@
+{
+  "name": "MultiShop SaaS Platform",
+  "description": "A high-fidelity multi-tenant e-commerce SaaS platform showcasing Super Admin, Vendor, Customer, and Branded Storefront workspaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
